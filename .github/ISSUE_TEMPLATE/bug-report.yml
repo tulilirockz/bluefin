@@ -27,7 +27,7 @@ body:
     id: version
     attributes:
       label: Output of `rpm-ostree status`
-      description: Please run `rpm-ostree status` and paste the output here.
+      description: Please run `rpm-ostree status` and paste the output here, we always need this since it has the image digest on it so that we can verify which exact image you are on in order to debug.
       render: shell
   - type: textarea
     id: groups
