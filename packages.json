@@ -120,6 +120,7 @@
 				"genisoimage",
 				"google-droid-sans-mono-fonts",
 				"google-go-mono-fonts",
+				"gvisor-tap-vsock",
 				"ibm-plex-mono-fonts",
 				"incus",
 				"incus-agent",
